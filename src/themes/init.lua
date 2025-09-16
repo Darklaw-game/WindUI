@@ -153,4 +153,16 @@ return {
         Button = "#d946ef",
         Icon = "#06b6d4",
     },
+    GradientPulse = {
+    Name = "GradientPulse",
+    Accent = "#9333ea",         -- Rich purple for highlights
+    Dialog = "#2e1065",         -- Deep violet for dialog boxes
+    Outline = "#c4b5fd",        -- Soft lavender outline
+    Text = "#f3e8ff",           -- Light violet text for readability
+    Placeholder = "#a78bfa",    -- Muted purple for placeholder hints
+    Background = "#1d4ed8",     -- Strong blue base from the gradient
+    Button = "#6d28d9",         -- Violet button to match the gradient
+    Icon = "#8b5cf6",           -- Bright purple icons for contrast
+}
+
 }
